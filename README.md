@@ -1,6 +1,5 @@
 # SAFETY-EQUIPMENT-DETECTION-USING-YOLOv5-FOR-INDUSTRIAL-SURVEILLANCE
 
-# Safety Equipment Detection Using YOLOv5 for Industrial Surveillance
 
 ## Overview
 
